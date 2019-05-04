@@ -1,0 +1,30 @@
+{
+  "name": "nodets-apollogql",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshtsch/nodets-apollogql.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/joshtsch/nodets-apollogql/issues"
+  },
+  "homepage": "https://github.com/joshtsch/nodets-apollogql#readme",
+  "dependencies": {
+    "dotenv": "8.0.0",
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "jest": "24.7.1",
+    "prettier": "1.17.0",
+    "tslint": "5.16.0",
+    "typescript": "3.4.5"
+  }
+}
